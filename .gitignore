@@ -4,3 +4,9 @@ target/
 *.ipr
 *.iws
 /log
+
+*/gradle
+*/.gradle
+gradlew
+gradlew.bat
+build

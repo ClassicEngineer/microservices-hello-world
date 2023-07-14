@@ -1,3 +1,7 @@
+
+# Forked from https://github.com/bluerei/microservices-hello-world
+
+
 ## 'Hello World' Application with Spring Boot Microservice  Stack
 
 This is simple microservice application designed to illustrate  the basic concept of Microservice Architecture and to provide a starting point for future development of any business application. 
@@ -8,7 +12,7 @@ This microservice application produces a 'Hello *World*'  messages in JSON forma
 
 #### Solution
 
-!['Hello World' microservices](hello-world-microservices2.png)
+!['Hello World' microservices](hello-world-microservices.png)
 
 
 
